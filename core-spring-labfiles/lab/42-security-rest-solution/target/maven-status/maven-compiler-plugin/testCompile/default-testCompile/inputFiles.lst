@@ -1,0 +1,5 @@
+/workspaces/spring-lab/core-spring-labfiles/lab/42-security-rest-solution/src/test/java/accounts/client/AccountClientTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomUserDetailsServiceTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/42-security-rest-solution/src/test/java/accounts/web/AccountControllerCustomAuthenticationProviderTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/42-security-rest-solution/src/test/java/accounts/web/AccountControllerTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/42-security-rest-solution/src/test/java/accounts/services/AccountServiceMethodSecurityTest.java

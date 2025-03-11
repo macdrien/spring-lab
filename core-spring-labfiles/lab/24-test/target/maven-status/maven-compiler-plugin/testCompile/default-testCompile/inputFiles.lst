@@ -1,0 +1,14 @@
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureJndiConfig.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubRewardRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureLocalConfig.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureConfig.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/RewardNetworkTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubRestaurantRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/LoggingBeanPostProcessor.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/SimpleJndiHelper.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubAccountRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/account/AccountTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java

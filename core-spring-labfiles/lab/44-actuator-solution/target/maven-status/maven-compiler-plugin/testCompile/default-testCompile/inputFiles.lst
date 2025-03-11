@@ -1,0 +1,4 @@
+/workspaces/spring-lab/core-spring-labfiles/lab/44-actuator-solution/src/test/java/accounts/client/AccountClientSecurityTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/44-actuator-solution/src/test/java/accounts/web/AccountControllerTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/44-actuator-solution/src/test/java/accounts/web/RestaurantHealthCheckTest.java
+/workspaces/spring-lab/core-spring-labfiles/lab/44-actuator-solution/src/test/java/accounts/client/AccountClientCustomEndpointTests.java

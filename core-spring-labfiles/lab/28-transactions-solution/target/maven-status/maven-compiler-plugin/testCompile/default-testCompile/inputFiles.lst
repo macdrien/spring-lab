@@ -1,0 +1,14 @@
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/SystemTestConfig.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkPropagationTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkSideEffectTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/SystemTestRequiresNewConfig.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/RewardNetworkTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/28-transactions-solution/src/test/java/rewards/internal/account/AccountTests.java

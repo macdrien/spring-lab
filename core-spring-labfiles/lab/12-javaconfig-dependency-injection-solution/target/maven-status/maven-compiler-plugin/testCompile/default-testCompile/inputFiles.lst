@@ -1,0 +1,7 @@
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/RewardNetworkTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/config/RewardsConfigTests.java
+/workspaces/spring-lab/core-spring-labfiles/lab/12-javaconfig-dependency-injection-solution/src/test/java/rewards/TestInfrastructureConfig.java
